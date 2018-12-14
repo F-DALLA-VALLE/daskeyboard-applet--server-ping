@@ -18,9 +18,9 @@
   "developerRepoUrl": "https://github.com/chbakouras/daskeyboard-applet-server-ping",
   "licenseUrl": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt",
   "changelogUrl": "CHANGELOG.md",
-  "readMeUrl":"README.md",
-  "readMeEndUserUrl":"README_ENDUSER.md",
-  "license":"MIT",
+  "readMeUrl": "README.md",
+  "readMeEndUserUrl": "README_ENDUSER.md",
+  "license": "MIT",
   "dependencies": {
     "daskeyboard-applet": "^2.10.6",
     "request-promise": "^4.2.2"
@@ -51,7 +51,7 @@
         "label": "Server status up",
         "help": "If status is ok (200) success color will be displayed.",
         "required": false,
-        "placeholder":"#00FF00",
+        "placeholder": "#00FF00",
         "order": 2,
         "controlType": "textbox"
       },
@@ -60,7 +60,7 @@
         "label": "Server status down",
         "help": "If status is not ok (not 200) error color will be displayed.",
         "required": false,
-        "placeholder":"#FF0000",
+        "placeholder": "#FF0000",
         "order": 3,
         "controlType": "textbox"
       }
