@@ -22,7 +22,7 @@
   "readMeEndUserUrl": "README_ENDUSER.md",
   "license": "MIT",
   "dependencies": {
-    "daskeyboard-applet": "^2.10.6",
+    "daskeyboard-applet": "2.10.6",
     "request-promise": "^4.2.2"
   },
   "engines": {
