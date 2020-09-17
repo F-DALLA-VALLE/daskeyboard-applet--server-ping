@@ -1,6 +1,27 @@
-# Server Ping
+# Q Applet: Server Ping
 
-Displays a server status through pinging a url.
+Monitors the status of web servers by performing HTTP requests on a given interval and updating a key color to reflect an 'UP' or 'DOWN' status based on how it compares to the desired status code
+
+[GitHub repository](https://github.com/chbakouras/daskeyboard-applet--server-ping)
+
+## Example
+
+![Server Ping on a Das Keybaord Q](assets/image.png "Q Server Ping")
+
+## Changelog
+
+[CHANGELOG.MD](CHANGELOG.md)
+
+## Installation
+
+Requires a Das Keyboard Q Series: www.daskeyboard.com.
+
+Installation, configuration and uninstallation of applets is done within
+the Q Desktop application (https://www.daskeyboard.com/q)
+
+## Contributions
+
+Pull requests welcome.
 
 ## Copyright / License
 
